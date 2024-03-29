@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578581305344",
+    "project_id": "giaydep-cc287",
+    "storage_bucket": "giaydep-cc287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578581305344:android:7ea024781e18e38fe3e0e5",
+        "android_client_info": {
+          "package_name": "com.example.giaydep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjUUExOm6Duo3x1zSBq4CTv44FhcVpSV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
